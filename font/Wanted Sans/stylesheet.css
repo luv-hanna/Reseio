@@ -1,0 +1,63 @@
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-SemiBold.woff2') format('woff2'),
+        url('Resio/font/WantedSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-Regular.woff2') format('woff2'),
+        url('Resio/font/WantedSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-Medium.woff2') format('woff2'),
+        url('Resio/font/WantedSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-ExtraBold.woff2') format('woff2'),
+        url('Resio/font/WantedSans-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-ExtraBlack.woff2') format('woff2'),
+        url('Resio/font/WantedSans-ExtraBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-Black.woff2') format('woff2'),
+        url('Resio/font/WantedSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Resio/font/WantedSans-Bold.woff2') format('woff2'),
+        url('Resio/font/WantedSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
